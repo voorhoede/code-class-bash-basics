@@ -1,0 +1,5 @@
+node_modules
+
+.eslintrc.js
+code-class-bash.key
+shell.sh

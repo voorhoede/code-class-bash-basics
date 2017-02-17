@@ -1,0 +1,16 @@
+{
+  "name": "code-class-bash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./tasks/lint.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^1.6.1",
+    "chalk": "^1.1.3"
+  }
+}
